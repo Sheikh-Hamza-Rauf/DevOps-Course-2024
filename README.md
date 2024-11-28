@@ -1,4 +1,4 @@
-# Devops-Course-FALL-2024
+# Devops-Course-2024
 This repository contains a detailed walkthrough of the concepts and technologies I learned during the DevOps Course FALL-2024, taught by @Saim Safdar.
 
 ## What I Have Learned
