@@ -52,13 +52,11 @@ This blog explains how to use GitHub Actions to automate the process of testing 
 
 The blog emphasizes how GitHub Actions makes the deployment process more efficient, helping developers focus on coding instead of manual tasks.
 
-### Links
+### Links of Blog 3
 - [Medium](https://medium.com/@sh.hamzarauf/automating-deployments-with-github-actions-523828f40c4e)
 - [Github](https://github.com/Sheikh-Hamza-Rauf/GitHub-Actions)
 
 ## Contacts
-
-## **🌐 Platforms**  
 
 ### **1. Medium**  
 - **Explore my articles and insights:**  
